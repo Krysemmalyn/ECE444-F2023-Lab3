@@ -3,6 +3,7 @@ flask
 flask_bootstrap
 flask_moment
 flask_wtf
+email_validator
 itsdangerous
 jinja2
 werkzeug
